@@ -1,2 +1,3 @@
-# ST258-Pagina
-Pagina web integrador 2
+# python
+
+Repository for saving code and concepts in python
